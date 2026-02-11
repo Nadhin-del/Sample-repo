@@ -1,5 +1,2 @@
-csharp
-
-
 Hello, this is my sample file.
 This is my first GitHub commit.
